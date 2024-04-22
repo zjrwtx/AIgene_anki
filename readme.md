@@ -1,5 +1,6 @@
 <a name="j9n9A"></a>
 # 功能介绍
+<iframe src="//player.bilibili.com/player.html?aid=1803637302&bvid=BV13b421Y7fW&cid=1516603522&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <a name="DZQgZ"></a>
 ## 一句话概述：
 <br />基于AI大模型大概两步就能批量生成anki图片笔记
