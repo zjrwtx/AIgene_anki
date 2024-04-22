@@ -39,7 +39,7 @@ pip install -r requirements.txt
 # 联系我
 <a name="JJrxw"></a>
 ## 微信：
-![be38576ed6d18b377b0e33e2ab23287.jpg](https://cdn.nlark.com/yuque/0/2024/jpeg/22859856/1713801106282-084526ce-0fd6-4d96-abd2-d09fc753c44f.jpeg#averageHue=%23526676&clientId=u7b5f5d88-e731-4&from=paste&height=133&id=u07ace908&originHeight=1296&originWidth=950&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=126795&status=done&style=none&taskId=u84aaf0d3-76b9-48cc-a852-03b84990e1f&title=&width=97.33334350585938)
+agi_isallyouneed
 <a name="fnnsF"></a>
 ## 微信公众号：正经人王同学
 ![bf0adcc8bb5878751a3a2351d93f311.jpg](https://cdn.nlark.com/yuque/0/2024/jpeg/22859856/1713801561819-9d19cb9a-1233-4295-ad90-56042bbabd3c.jpeg#averageHue=%23a2a1a0&clientId=u7b5f5d88-e731-4&from=paste&height=172&id=u329dbc86&originHeight=430&originWidth=430&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=40862&status=done&style=none&taskId=u7551bc0b-a19a-4ff7-8b6e-1c0d27b3ae1&title=&width=171.66668701171875)
