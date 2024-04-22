@@ -1,8 +1,7 @@
 <a name="j9n9A"></a>
+# 演示视频地址
+<a href="https://www.bilibili.com/video/BV13b421Y7fW/?spm_id_from=333.999.0.0&vd_source=5531fb0981ef79f87198a3c2651dff93">AIgene_anki demo演示（B站）</a>
 # 功能介绍
-
-<iframe src="//player.bilibili.com/player.html?aid=1803637302&bvid=BV13b421Y7fW&cid=1516603522&p=1"  allowfullscreen="true"> </iframe>
-
 <a name="DZQgZ"></a>
 ## 一句话概述：
 <br />基于AI大模型大概两步就能批量生成anki图片笔记
